@@ -1,6 +1,7 @@
-# Hola, soy Sofía Sánchez :hola: Graduada en FP Grado Superior de Desarrollo de Aplicaciones Web, con muchas ganas de seguir adquiriendo conocimientos y poder dedicarme a ello.
+# Hola, soy Sofía Sánchez :hola: 
 
 ## :cohete: Acerca de mí
+Graduada en FP Grado Superior de Desarrollo de Aplicaciones Web, con muchas ganas de seguir adquiriendo conocimientos y poder dedicarme a ello.
 Mi experiencia está en el manejo de JavaScript, HTML, CSS y softwares como PHP, MySql, SQL, C# y C++.  Mis puntos fuertes se encuentran sobretodo en la creación de proyectos con JavaScript y HTML.
 
 ## :sonrisa: Pronombres
