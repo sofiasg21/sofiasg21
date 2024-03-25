@@ -21,3 +21,4 @@ Mi experiencia está en el manejo de JavaScript, HTML, CSS y softwares como PHP,
 - [LinkedIn](https://www.linkedin.com/in/sof%C3%ADa-s%C3%A1nchez-garrido-ab07b4300/)
 - [Correo Electrónico](sofiasg21.interamplify@gmail.com)
 - [Twitter](https://twitter.com/sofiasginter)
+- [https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/sofiasginter)
