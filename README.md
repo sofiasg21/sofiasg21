@@ -1,4 +1,4 @@
-# Hola, soy Sofía Sánchez :hola: 
+# Hola, soy Sofía Sánchez 👧
 
 ## :cohete: Acerca de mí
 Graduada en FP Grado Superior de Desarrollo de Aplicaciones Web, con muchas ganas de seguir adquiriendo conocimientos y poder dedicarme a ello.
