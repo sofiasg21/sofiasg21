@@ -4,19 +4,17 @@
 Graduada en FP Grado Superior de Desarrollo de Aplicaciones Web, con muchas ganas de seguir adquiriendo conocimientos y poder dedicarme a ello.
 Mi experiencia está en el manejo de JavaScript, HTML, CSS y softwares como PHP, MySql, SQL, C# y C++.  Mis puntos fuertes se encuentran sobretodo en la creación de proyectos con JavaScript y HTML.
 
-## :sonrisa: Pronombres
-- Él/Him/His
 
 ## 👩‍💻Experiencia Laboral
 - **[PIMKIE, Pull and Bear, RKS]**: [Dependienta]
-- 
+- **[Opositora CNP]**
 ## 🎓 Educación
 - [Bachiller]: [Humanidades y Ciencias Sociales]
 - [Grado Superior]: [Desarrollo y Aplicaciones Web]
 ## 🤲Habilidades
 - Lenguajes de Programación: JavaScript, Python, C++
 - Frameworks: React, Angular
-- Herramientas: Git
+- Herramientas: Git, GitHub
 ## 📩✏️ CONTACTO
 - ![image](https://github.com/sofiasg21/sofiasg21/assets/162640974/152c5bd6-2a00-4c2b-9c69-a071d039ed6c)
 [LinkedIn](https://www.linkedin.com/in/sof%C3%ADa-s%C3%A1nchez-garrido-ab07b4300/)
