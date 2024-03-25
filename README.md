@@ -7,10 +7,10 @@ Mi experiencia está en el manejo de JavaScript, HTML, CSS y softwares como PHP,
 
 ## 👩‍💻Experiencia Laboral
 - **[PIMKIE, Pull and Bear, RKS]**: [Dependienta]
-- **[Opositora CNP]**
 ## 🎓 Educación
 - [Bachiller]: [Humanidades y Ciencias Sociales]
 - [Grado Superior]: [Desarrollo y Aplicaciones Web]
+- [Opositora CNP]
 ## 🤲Habilidades
 - Lenguajes de Programación: JavaScript, Python, C++
 - Frameworks: React, Angular
