@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hola, soy Sofía Sánchez :hola: Graduada en FP Grado Superior de Desarrollo de Aplicaciones Web, con muchas ganas de seguir adquiriendo conocimientos y poder dedicarme a ello.
 
-<!--
-**sofiasg21/sofiasg21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :cohete: Acerca de mí
+Mi experiencia está en el manejo de JavaScript, HTML, CSS y softwares como PHP, MySql, SQL, C# y C++.  Mis puntos fuertes se encuentran sobretodo en la creación de proyectos con JavaScript y HTML.
 
-Here are some ideas to get you started:
+## :sonrisa: Pronombres
+- Él/Him/His
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :maletín: Experiencia Laboral
+- **[PIMKIE, Pull and Bear, RKS]**: [Dependienta]
+- 
+## :birrete: Educación
+- [Bachiller]: [Humanidades y Ciencias Sociales]
+- [Grado Superior]: [Desarrollo y Aplicaciones Web]
+## :plántula: Habilidades
+- Lenguajes de Programación: JavaScript, Python, C++
+- Frameworks: React, Angular
+- Herramientas: Git
+## :buzón: Cómo contactarme
+- [LinkedIn](https://www.linkedin.com/in/sof%C3%ADa-s%C3%A1nchez-garrido-ab07b4300/)
+- [Correo Electrónico](sofiasg21.interamplify@gmail.com)
+- [Twitter](https://twitter.com/sofiasginter)
