@@ -2,7 +2,7 @@
 
 ## ✍️ Acerca de mí
 Graduada en FP Grado Superior de Desarrollo de Aplicaciones Web, con muchas ganas de seguir adquiriendo conocimientos y poder dedicarme a ello.
-Mi experiencia está en el manejo de JavaScript, HTML, CSS y softwares como PHP, MySql, SQL, C# y C++.  Mis puntos fuertes se encuentran sobretodo en la creación de proyectos con JavaScript y HTML.
+Con experiencia en el manejo de lenguajes como JavaScript, HTML y CSS, así como en el desarrollo con tecnologías como PHP, bases de datos MySQL y SQL, y lenguajes como C# y C++. 
 
 
 ## 👩‍💻Experiencia Laboral
