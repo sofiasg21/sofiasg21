@@ -55,5 +55,5 @@ También cuento con experiencia en desarrollo web, trabajando con tecnologías c
 ## 📩✏️ CONTACTO
 - ![image](https://github.com/sofiasg21/sofiasg21/assets/162640974/152c5bd6-2a00-4c2b-9c69-a071d039ed6c)
 [LinkedIn](https://www.linkedin.com/in/sof%C3%ADa-s%C3%A1nchez-garrido-ab07b4300/)
-- ![Gmail-D14836_style=for-the-badge logo=gmail logoColor=white](https://github.com/sofiasg21/sofiasg21/assets/162640974/ab4e5afe-d5aa-4841-83a7-8f1731bc7aec)[Correo Electrónico](sofiasg21.interamplify@gmail.com)
+- ![Gmail-D14836_style=for-the-badge logo=gmail logoColor=white](https://github.com/sofiasg21/sofiasg21/assets/162640974/ab4e5afe-d5aa-4841-83a7-8f1731bc7aec)sofiasanchezg21@gmail.com
 - ![GitHub-100000_style=for-the-badge logo=github logoColor=white](https://github.com/sofiasg21/sofiasg21/assets/162640974/a5ed2b40-f465-4c8e-8322-53397170c54e)[GitHub](https://github.com/sofiasg21)
