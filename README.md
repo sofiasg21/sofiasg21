@@ -30,7 +30,7 @@ También cuento con experiencia en desarrollo web, trabajando con tecnologías c
   - Uso de sistemas informáticos de punto de venta
   - Resolución de incidencias menores
  
-##👋 Habilidades
+## 👋 Habilidades
 
 - **Ciberseguridad:** SIEM, Wazuh, ELK, Splunk, análisis de logs, firewalls, MITRE ATT&CK
 - **Cloud:** AWS, Azure
@@ -39,7 +39,7 @@ También cuento con experiencia en desarrollo web, trabajando con tecnologías c
 - **Desarrollo:** HTML, CSS, JavaScript, PHP, MySQL
 - **Herramientas:** Git, GitHub, Sophos Central
 
-##🎓 Educación
+## 🎓 Educación
 
 - **Bootcamp de Ciberseguridad | Upgrade Hub | 2026**
 - **Grado Superior en Desarrollo de Aplicaciones Web | Jobie School | 2022**
