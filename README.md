@@ -51,7 +51,6 @@ También cuento con experiencia en desarrollo web, trabajando con tecnologías c
 - **Español:** Nativo
 - **Inglés:** Avanzado / Alto
 
-- 
 ## 📩✏️ CONTACTO
 - ![image](https://github.com/sofiasg21/sofiasg21/assets/162640974/152c5bd6-2a00-4c2b-9c69-a071d039ed6c)
 [LinkedIn](https://www.linkedin.com/in/sof%C3%ADa-s%C3%A1nchez-garrido-ab07b4300/)
